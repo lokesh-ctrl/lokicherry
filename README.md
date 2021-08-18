@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @lokicherry
+- I'm a software developer. Mostly work on web development.
 - 👀 I’m interested in Implementing Applications that make use of Machine Learning
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on solving Machine Learning and Data Science Problems
